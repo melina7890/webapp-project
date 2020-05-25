@@ -1,2 +1,1 @@
-Webapp project 
-Work in Progress
+Webapp project, work in progress
